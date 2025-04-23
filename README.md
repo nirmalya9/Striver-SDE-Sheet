@@ -8,6 +8,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,8 +46,10 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
