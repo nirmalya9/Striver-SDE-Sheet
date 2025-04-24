@@ -28,6 +28,7 @@
 | [0072-edit-distance](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [1250-longest-common-subsequence](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1250-longest-common-subsequence) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Greedy
+|  |
+| ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
