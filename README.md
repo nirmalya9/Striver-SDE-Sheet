@@ -36,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Design
@@ -57,4 +58,16 @@
 |  |
 | ------- |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/nirmalya9/Striver-SDE-Sheet/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
